@@ -1,8 +1,7 @@
-# FormacaoGITHUB
+## ✔️ Formação Github Certification da DIO
 
 A Formação GitHub Certification na DIO é uma jornada educacional destinada a profissionais de tecnologia, focando em habilidades essenciais como controle de versão, colaboração e administração no ecossistema Git e GitHub.  
 
-## ✔️ Formação Github Certification
 ![](https://assets.dio.me/x2CbxXC80Y17uOjwlgisGu0-5Ltkqn3v7tZ9wcxguWs/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9kOTkzMjQyOS03MGVlLTRkM2MtYjZiZi1mNzYyYzU5MGM4ZGYucG5n) 
 
 Em três módulos, os participantes aprendem a aplicar práticas de desenvolvimento modernas, gerenciar projetos com eficiência e explorar produtos inovadores do GitHub. 
