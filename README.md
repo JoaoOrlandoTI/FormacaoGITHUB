@@ -4,7 +4,7 @@ A Formação GitHub Certification na DIO é uma jornada educacional destinada a 
 
 ![](https://assets.dio.me/x2CbxXC80Y17uOjwlgisGu0-5Ltkqn3v7tZ9wcxguWs/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9kOTkzMjQyOS03MGVlLTRkM2MtYjZiZi1mNzYyYzU5MGM4ZGYucG5n) 
 
-Em três módulos, os participantes aprendem a aplicar práticas de desenvolvimento modernas, gerenciar projetos com eficiência e explorar produtos inovadores do GitHub. 
+Em três módulos, os participantes aprendem a aplicar práticas de desenvolvimento modernas, gerenciar projetos com eficiência e explorar produtos inovadores do GitHub. 10 cursos 3 desafios de projeto 1 desafio de código
 
 Esta Formação prepara desenvolvedores, gerentes de projeto e administradores de sistema para enfrentar os desafios do desenvolvimento de software, oferecendo vantagem competitiva e elevando padrões de produtividade e segurança dentro do ecossistema do GitHub e suas certificações.
 
