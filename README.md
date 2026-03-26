@@ -10,12 +10,26 @@ Esta Formação prepara desenvolvedores, gerentes de projeto e administradores d
 
 Essencialmente, essa Formação promove uma proficiência indispensável no cenário tecnológico atual, te transformando em um profissional altamente capacitados e versáteis, prontos para implementar soluções inovadoras e liderar em ambientes de desenvolvimento complexos. É um investimento estratégico para quem busca excelência em suas carreiras e um diferencial competitivo no mercado de trabalho em tecnologia.
 
-### ✔️ 10. Python
+### ✔️ 1. Python
 <img src=" " width="456">
 
-### ✔️ 11. Python
+### ✔️ 2. Python
 <img src=" " width="456">
 
-### ✔️ 12. Python
+### ✔️ 3. Python
 <img src=" " width="456">
 
+### ✔️ 4. Python
+<img src=" " width="456">
+
+### ✔️ .5 Python
+<img src=" " width="456">
+
+### ✔️ .6 Python
+<img src=" " width="456">
+
+### ✔️ .7 Python
+<img src=" " width="456">
+
+### ✔️ . Python
+<img src=" " width="456">
