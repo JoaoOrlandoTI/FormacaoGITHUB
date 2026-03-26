@@ -10,7 +10,7 @@ Esta Formação prepara desenvolvedores, gerentes de projeto e administradores d
 
 Essencialmente, essa Formação promove uma proficiência indispensável no cenário tecnológico atual, te transformando em um profissional altamente capacitados e versáteis, prontos para implementar soluções inovadoras e liderar em ambientes de desenvolvimento complexos. É um investimento estratégico para quem busca excelência em suas carreiras e um diferencial competitivo no mercado de trabalho em tecnologia.
 
-### ✔️ . 
+### ✔️ . Introdução ao Git e ao GitHub
 <img src=" " width="456">
 
 ### ✔️ 2. Autenticações
