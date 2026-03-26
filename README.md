@@ -10,16 +10,16 @@ Esta Formação prepara desenvolvedores, gerentes de projeto e administradores d
 
 Essencialmente, essa Formação promove uma proficiência indispensável no cenário tecnológico atual, te transformando em um profissional altamente capacitados e versáteis, prontos para implementar soluções inovadoras e liderar em ambientes de desenvolvimento complexos. É um investimento estratégico para quem busca excelência em suas carreiras e um diferencial competitivo no mercado de trabalho em tecnologia.
 
-### ✔️ 1. Python
+### ✔️ 1. Autenticações
 <img src=" " width="456">
 
-### ✔️ 2. Python
+### ✔️ 2. Colaboraçao no Github
 <img src=" " width="456">
 
-### ✔️ 3. Python
+### ✔️ 3. Formação com Markdown
 <img src=" " width="456">
 
-### ✔️ 4. Python
+### ✔️ 4. Explorando Colaboração e Markdown
 <img src=" " width="456">
 
 ### ✔️ .5 Python
