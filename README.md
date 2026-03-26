@@ -25,10 +25,10 @@ Essencialmente, essa Formação promove uma proficiência indispensável no cen�
 ### ✔️ 5. Explorando Colaboração e Markdown
 <img src=" " width="456">
 
-### ✔️ 6. 
+### ✔️ 6. Sobre Contas e Ferramentas no Github
 <img src=" " width="456">
 
-### ✔️ 7.
+### ✔️ 7. Gerenciando Seu Trabalho Com Github Projects
 <img src=" " width="456">
 
 ### ✔️ .
