@@ -11,7 +11,7 @@ Esta Formação prepara desenvolvedores, gerentes de projeto e administradores d
 Essencialmente, essa Formação promove uma proficiência indispensável no cenário tecnológico atual, te transformando em um profissional altamente capacitados e versáteis, prontos para implementar soluções inovadoras e liderar em ambientes de desenvolvimento complexos. É um investimento estratégico para quem busca excelência em suas carreiras e um diferencial competitivo no mercado de trabalho em tecnologia.
 
 ### ✔️ . Introdução ao Git e ao GitHub
-<img src=" " width="456">
+<img src="https://private-user-images.githubusercontent.com/267536401/569693468-0cb4a666-ec90-48eb-a310-4187832a17ac.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ1MjQyNzcsIm5iZiI6MTc3NDUyMzk3NywicGF0aCI6Ii8yNjc1MzY0MDEvNTY5NjkzNDY4LTBjYjRhNjY2LWVjOTAtNDhlYi1hMzEwLTQxODc4MzJhMTdhYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyNlQxMTE5MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZDM4ZDM3Y2YwMWY0MGVlMzk3YjM2ZTg4ODlhMTdiZDVjN2NiOTUwMjM2NDVlYWYyMDU4NmE2OTg4ODg1NjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ldrYSlosyW7-jFmpkDAtDBP2td9-BCMkAot8J1vP_Cs" width="456">
 
 ### ✔️ 2. Autenticações
 <img src=" " width="456">
