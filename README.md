@@ -34,35 +34,30 @@ Essencialmente, essa Formação promove uma proficiência indispensável no cen�
 ### ✔️ 8. Github Copilot
 <img src="https://private-user-images.githubusercontent.com/267536401/570713757-bff2f08b-06f0-4a86-9429-08367a7e8d88.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ2NTA1ODUsIm5iZiI6MTc3NDY1MDI4NSwicGF0aCI6Ii8yNjc1MzY0MDEvNTcwNzEzNzU3LWJmZjJmMDhiLTA2ZjAtNGE4Ni05NDI5LTA4MzY3YTdlOGQ4OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyN1QyMjI0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMDg4YTJjZjQ1N2M0ZTA3MjA2OGNhYjY4N2EwNjcyMjY1Yzg2ZWQxZDA1NjM1YjVmZWVjZDkwNTUxZGNmNGIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JNeFOQjtOsBMZsjW11cBqEPKiIMNqyY10a8uK0f3KPo" width="456">
 
-.
 ### ✔️ . 
 <img src=" " width="456">
 
 ### ✔️ . 
 <img src=" " width="456">
 
-.
 ### ✔️ . 
 <img src=" " width="456">
 
 ### ✔️ . 
 <img src=" " width="456">
 
-.
 ### ✔️ . 
 <img src=" " width="456">
 
 ### ✔️ . 
 <img src=" " width="456">
 
-.
 ### ✔️ . 
 <img src=" " width="456">
 
 ### ✔️ . 
 <img src=" " width="456">
 
-.
 ### ✔️ . 
 <img src=" " width="456">
 
