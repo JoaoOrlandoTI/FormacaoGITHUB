@@ -1,4 +1,4 @@
-<img width="362" height="476" alt="image" src="https://github.com/user-attachments/assets/f710f2cd-4ad1-4f98-a0cf-77dfb59d015b" />## ✔️ Formação Github Certification da DIO
+## ✔️ Formação Github Certification da DIO
 
 A Formação GitHub Certification na DIO é uma jornada educacional destinada a profissionais de tecnologia, focando em habilidades essenciais como controle de versão, colaboração e administração no ecossistema Git e GitHub.  
 
