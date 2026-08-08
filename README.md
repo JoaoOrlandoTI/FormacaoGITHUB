@@ -1,7 +1,6 @@
 q
 f
-g
-h
+
 
 
 # ✔️ Formação Github Certification da DIO
