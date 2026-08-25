@@ -1,8 +1,6 @@
 1
 w
 3
-4
-5
 
 # ✔️ Formação Github Certification da DIO
 
